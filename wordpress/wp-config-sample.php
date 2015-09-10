@@ -25,7 +25,7 @@ define('DB_USER', 'root	');
 define('DB_PASSWORD', 'w3sky4');
 
 /** Host de MySQL (es muy probable que no necesites cambiarlo) */
-define('DB_HOST', 'localhost');
+define('DB_HOST', '192.168.1.0.4');
 
 /** Codificación de caracteres para la base de datos. */
 define('DB_CHARSET', 'utf8');
